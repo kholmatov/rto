@@ -1,6 +1,7 @@
 # Clover Property Web App: RTO Affordability Calculator
 
 <b>Front end form</b>
+<img src="https://github.com/kholmatov/rto/blob/master/form.png?raw=true">
 
 Th form is located somewhere on the website http://site.com/clover-properties-rent-to-own-application/<br>
 The form includes the following fields: Name (First and Last), Email, Household Income (number is entered by a user), Down Payment (amount is entered by a user)<br>
