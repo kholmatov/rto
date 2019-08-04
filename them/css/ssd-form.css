@@ -1,0 +1,21 @@
+[data-validation] span,
+[data-validation] div {
+    color: #900 !important;
+}
+
+[data-validation] [data-case] {
+    display: none;
+}
+
+[data-validation] [data-case].show {
+    display: block;
+}
+
+[data-validation].display-inline [data-case].show  {
+    display: inline;
+}
+
+[data-confirmation],
+.hide {
+    display: none;
+}

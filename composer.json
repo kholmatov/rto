@@ -1,0 +1,15 @@
+{
+  "require": {
+    "illuminate/database": "4.2.*",
+    "stefangabos/zebra_pagination": "^2.3"
+  },
+  "autoload": {
+    "classmap": [
+      "app/models"
+    ]
+  },
+  "config": {
+    "disable-tls": true,
+    "secure-http": false
+  }
+}
