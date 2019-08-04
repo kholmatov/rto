@@ -20,5 +20,5 @@ YOUR BUDGET IS:  $120,500.<br>
  
 Only one pre-set account is available for Backend panel. Link to the login page is not publicly available. It can be a link like this: http://site.com/calculator/login/
 <br>
-<img src="https://github.com/kholmatov/rto/blob/master/admin.png?raw=true" width="50%">
+<center><img src="https://github.com/kholmatov/rto/blob/master/admin.png?raw=true" width="50%"></center>
 
