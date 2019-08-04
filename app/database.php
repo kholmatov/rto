@@ -10,10 +10,10 @@ $capsule = new Capsule();
 
 $capsule->addConnection([
     'driver' => 'mysql',
-    'host' => 'rtocalculator.db.5546588.fb9.hostedresource.net',
-    'username' => 'rtocalculator',
-    'password' => 'RTO2019form!',
-    'database' => 'rtocalculator',
+    'host' => '',
+    'username' => '',
+    'password' => '',
+    'database' => '',
     'charset' => 'utf8',
     'collation' => 'utf8_unicode_ci',
     'prefix' => ''
