@@ -1,6 +1,6 @@
 {
   "require": {
-    "illuminate/database": "4.2.*",
+    "illuminate/database": "6.20.*",
     "stefangabos/zebra_pagination": "^2.3"
   },
   "autoload": {
